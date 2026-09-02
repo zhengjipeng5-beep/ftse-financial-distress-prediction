@@ -1,6 +1,5 @@
 # ftse-financial-distress-prediction
 Python code for one-year-ahead financial distress prediction using Logistic Regression and Random Forest.
-# Financial Distress Prediction in FTSE All-Share Firms
 
 This repository contains the Python code used for the MSc dissertation
 “Financial Distress Prediction in FTSE All-Share Firms Using Logistic
